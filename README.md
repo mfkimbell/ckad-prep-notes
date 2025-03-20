@@ -1,5 +1,11 @@
 # ckad-prep-notes
 
+## Registering
+
+Head over to this link (https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/?cjdata=MXxOfDB8WXww&cjevent=e41243a805dd11f080da008b0a82b832&utm_source=CJ&utm_medium=affiliate) to enroll in the Certification Exam. Remember to keep the code - 20KODE - handy to get a 20% discount while registering for the CKA exam with Linux Foundation.
+
+You get **one free retake** and can register pretty much whenever
+
 ## Some Quick Exam Tips
 
 1. **Quickly Generate YAML Manifests**
